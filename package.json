@@ -1,0 +1,19 @@
+{
+  "name": "db-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneJobs/db-benchmark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneJobs/db-benchmark/issues"
+  },
+  "homepage": "https://github.com/JuneJobs/db-benchmark#readme"
+}
